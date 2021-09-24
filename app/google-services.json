@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069029370405",
+    "firebase_url": "https://winish-e4d7c-default-rtdb.firebaseio.com",
+    "project_id": "winish-e4d7c",
+    "storage_bucket": "winish-e4d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069029370405:android:241b0b6884bca73c0e6dcc",
+        "android_client_info": {
+          "package_name": "com.example.winish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069029370405-68li8l579g41tlf9h0fuivifvv9trht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsu1tadoYWLwMnkT9RFzIiE32ecvZO6b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069029370405-68li8l579g41tlf9h0fuivifvv9trht9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

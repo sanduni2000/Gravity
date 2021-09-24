@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WINISH</string>
+    <string name="btnGoals" />
+    <string name="btnCal" />
+    <string name="Goal">My goals</string>
+    <string name="Abouta">Calculator</string>
+    <string name="Goaldetails">Goal Details</string>
+
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="aGoal" />
+    <string name="ddes_goal" />
+    <string name="ddate" />
+    <string name="add_goal">Goal</string>
+    <string name="add_des_Goal">Describe Goal</string>
+    <string name="add_date">Start Date</string>
+    <string name="add_time">Time duration</string>
+    <string name="CALENDAR">CALENDAR</string>
+    <string name="tv1">Goal trackers help individuals and teams set goals and track their progress towards those goals. They give you a structured way to track and visualize your goal progress through features like dashboards and progress bars.                    Simply choose a goalset a target by inputting a goal value or a certain date, and then specify the action you need to do to turn it into a habit.</string>
+    <string name="btnNxt">Next</string>
+    <string name="About">About</string>
+    <string name="Nxt">Next</string>
+</resources>
