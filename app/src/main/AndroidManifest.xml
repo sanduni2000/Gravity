@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WINISH">
         <activity
+            android:name=".Calendar"
+            android:exported="true" />
+        <activity
             android:name=".About"
             android:exported="true" />
         <activity
