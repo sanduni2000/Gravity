@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WINISH</string>
+    <string name="subjects">subjects</string>
+    <string name="sub1button">subject 1</string>
+    <string name="sub2button">subject 2</string>
+    <string name="sub3button">subject 3</string>
+    <string name="sub4button">subject 4</string>
+    <string name="sub5button">subject 5</string>
+    <string name="sub6button">subject 6</string>
+    <string name="sub7button">subject 7</string>
+    <string name="lesson1button">Lesson 1</string>
+    <string name="lesson2button">Lesson 2</string>
+    <string name="lesson3button">Lesson 3</string>
+    <string name="lesson4button">Lesson 4</string>
+    <string name="lesson5button">Lesson 5</string>
+    <string name="subject1">Subject 1</string>
+    <string name="subject1text2">Subject 1</string>
+    <string name="lesson1text">Lesson 1</string>
+    <string name="notestext">http://schemas.android.com/apk/res/android:text=\"List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. Some items produce luminescence both ways:  Things That Glow in the Dark Things That Glow Under Black Light Essential Chemistry Charts and Tables  Sometimes it’s just easier. List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. Some items produce luminescence both ways:  Things That Glow in the Dark Things That Glow Under Black Light Essential Chemistry Charts and Tables  Sometimes it’s just easier. List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. Some items produce luminescence both ways:  Things That Glow in the Dark Things That Glow Under Black Light Essential Chemistry Charts and Tables  Sometimes it’s just easier. List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. \"\thttp://schemas.android.com/apk/res/android:text=\"List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. Some items produce luminescence both ways:  Things That Glow in the Dark Things That Glow Under Black Light Essential Chemistry Charts and Tables  Sometimes it’s just easier. List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. Some items produce luminescence both ways:  Things That Glow in the Dark Things That Glow Under Black Light Essential Chemistry Charts and Tables  Sometimes it’s just easier. List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. Some items produce luminescence both ways:  Things That Glow in the Dark Things That Glow Under Black Light Essential Chemistry Charts and Tables  Sometimes it’s just easier. List of things that glow  Here are two lists for you. One covers things that glow under black light (fluorescent or phosphorescent), while the other covers things that glow when the lights go out and it’s truly dark. \"</string>
+    <string name="editbutton">Edit</string>
+    <string name="deletebutton">Delete</string>
+    <string name="mainNotesbutton">About</string>
+    <string name="addNotesbutton">My Notes</string>
+    <string name="aboutText">ABOUT</string>
+    <string name="aboutTextView">Notes taking is a special part in the WINIX app where the users have the facility to keep their notes safely. and can edit or delete any of them when needed.</string>
+    <string name="sub1les1button">Subject 1 -  Lesson 1</string>
+    <string name="sub3les2button">Subject 3 - Lesson 2</string>
+    <string name="sub4les1button">subject 4 - Lesson 1</string>
+    <string name="sub2les2button">Subject 2 - Lesson 2</string>
+    <string name="incompleteNotesText">Incomplete Notes</string>
+
+    /*time management*/
+    <string name="tbutton1">create new task</string>
+    <string name="tbutton2">view my time table</string>
+    <string name="tbutton3">view my progress</string>
+
+
+    /*Home page*/
+    <string name="homebutton1">Productivity and Time Management</string>
+    <string name="homebutton2">Goal Tracker</string>
+    <string name="homebutton3">Exam and GPA calculator</string>
+    <string name="homebutton4">Note taking</string>
+    <string name="hometext">WINISH APP</string>
+</resources>
