@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "418464684122",
+    "project_id": "productivity-and-time",
+    "storage_bucket": "productivity-and-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418464684122:android:8b39750a67b49b1a776063",
+        "android_client_info": {
+          "package_name": "com.example.ProductivityAndTime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418464684122-u58fo1j6ig4hn38n6t856j03bh0p0ulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2uUvEUiDGr9XrHZeeiqqrEGNEb5ZMgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418464684122-u58fo1j6ig4hn38n6t856j03bh0p0ulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418464684122:android:c39bd57635692101776063",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418464684122-u58fo1j6ig4hn38n6t856j03bh0p0ulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2uUvEUiDGr9XrHZeeiqqrEGNEb5ZMgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418464684122-u58fo1j6ig4hn38n6t856j03bh0p0ulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

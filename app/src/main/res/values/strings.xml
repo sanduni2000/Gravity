@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WINISH</string>
+    <string name="tv_banner1">Productivity and Time Management</string>
+    <string name="bt_createNew">Create New Task</string>
+    <string name="bt_viewMyTimeTable">View my Timetable</string>
+    <string name="bt_viewMyProgress">View My Progress</string>
+    <string name="bt_back">Back</string>
+    <string name="tv_banner2">Things you can do</string>
+    <string name="tv_bannerAddANewTask">Add a New Task</string>
+    <string name="tv_TimePicker">Click Here</string>
+    <string name="tv_timeBanner1">Click here to Selct Time</string>
+    <string name="et_hintDate">Select Date</string>
+    <string name="tv_selectDateBanner">Please Select the Date</string>
+    <string name="tv_subjectBanner">Enter the Subject</string>
+    <string name="et_subject">Subject</string>
+    <string name="tv_description">Add a Discription</string>
+    <string name="description_hint">Please add a brief description about the Task</string>
+    <string name="editTask">Edit your Task</string>
+</resources>

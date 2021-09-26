@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/img12">
+
+
+    <TextView
+        android:id="@+id/tv_banner1"
+        android:layout_width="248dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/tv_banner1"
+        android:textColor="@android:color/holo_purple"
+        android:textColorHighlight="@color/teal_700"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/bt_newTask"
+        android:layout_width="93dp"
+        android:layout_height="101dp"
+        android:gravity="center"
+        android:onClick="sendMessage"
+        android:shadowColor="@color/black"
+        android:text="@string/bt_createNew"
+        android:textSize="10sp"
+        app:backgroundTint="?attr/colorError"
+        app:cornerRadius="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.103"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.547" />
+
+
+    <Button
+        android:id="@+id/bt_myTimeTable"
+        android:layout_width="93dp"
+        android:layout_height="103dp"
+        android:gravity="center"
+        android:onClick="viewTasks"
+        android:text="@string/bt_viewMyTimeTable"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        app:backgroundTint="@color/skyblue"
+        app:cornerRadius="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.911"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.63" />
+
+    <Button
+        android:id="@+id/bt_viewMyProgress"
+        android:layout_width="93dp"
+        android:layout_height="121dp"
+        android:gravity="center"
+        android:onClick="viewTasks"
+        android:text="@string/bt_viewMyProgress"
+        android:textSize="10sp"
+        app:backgroundTint="@color/teal_700"
+        app:cornerRadius="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.789"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.418" />
+
+    <Button
+        android:id="@+id/bt_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@android:drawable/divider_horizontal_bright"
+        android:backgroundTint="@color/design_default_color_secondary_variant"
+        android:text="@string/bt_back"
+        android:textColor="@color/design_default_color_error"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
